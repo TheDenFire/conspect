@@ -1,8 +1,7 @@
-General responsibility Assignet Software Patterns
+**General responsibility Assignet Software Patterns**
 Общие паттерны распределения обязанностей в ПО
 
 ## **Информационный эксперт - Information expert** 
-
 Тип, имеющий максимум информации, имеет ответственность выполнения операций над этим типом - информационный эксперт. 
 
 Недостатки
